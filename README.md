@@ -20,6 +20,4 @@ There are two main reasons:
 
 ## How?
 
-Currently I have choosen gitpod as best balance of UX, OSS and price.
-
-
+Currently I have choosen [Gitpod](https://gitpod.io/) as best balance of UX, OSS and cost. This repo is my main environment with all configuration and tools I use as DevOps. For specific projects I will use their respective repositories.

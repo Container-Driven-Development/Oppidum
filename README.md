@@ -2,6 +2,8 @@
 
 PC-less DevOps setup, main goal is to migrate completely from local terminal to remote.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elmariofredo/Oppidum)
+
 ## Why?
 
 There are two main reasons:

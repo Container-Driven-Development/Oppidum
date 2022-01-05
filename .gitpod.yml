@@ -1,1 +1,2 @@
-image: ghcr.io/container-driven-development/oppidum-devops-blueprint:v0.5
+image: node:buster
+# image: ghcr.io/container-driven-development/oppidum-devops-blueprint:v0.5

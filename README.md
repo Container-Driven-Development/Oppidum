@@ -27,3 +27,5 @@ There are three main reasons:
 Currently I have choosen [Gitpod](https://gitpod.io/) as best balance of UX, OSS and cost. 
 
 This repo is my OSS environment with all configuration and tools I need. For specific clients I will use their respective private repositories forked from this repo.
+
+Whole environment is based on https://github.com/Container-Driven-Development/Oppidum-DevOps-Blueprint but you can use your custom container image or stick with Gitpod defaults.

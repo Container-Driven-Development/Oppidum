@@ -2,11 +2,13 @@
 
 PC-less DevOps setup, main goal is to migrate completely from local terminal to remote.
 
+You can try it yourself just click on button below and you will get my whole dev experience.
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elmariofredo/Oppidum)
 
 ## Why?
 
-There are two main reasons:
+There are three main reasons:
 
 1. **Docker Desktop**
 
@@ -22,4 +24,6 @@ There are two main reasons:
 
 ## How?
 
-Currently I have choosen [Gitpod](https://gitpod.io/) as best balance of UX, OSS and cost. This repo is my main environment with all configuration and tools I use as DevOps. For specific projects I will use their respective repositories.
+Currently I have choosen [Gitpod](https://gitpod.io/) as best balance of UX, OSS and cost. 
+
+This repo is my OSS environment with all configuration and tools I need. For specific clients I will use their respective private repositories forked from this repo.

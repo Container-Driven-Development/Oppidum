@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../github.com/Container-Driven-Development/Oppidum-DevOps-Blueprint"
-		},
-		{
-			"path": "../github.com/elmariofredo/elmariofredo"
 		}
 	],
 	"settings": {}
